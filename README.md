@@ -1,13 +1,13 @@
 
 # Finance Admin – Petty Cash & Cash Advance Management
 
-## 📌 Project Overview
+## Project Overview
 
 An Excel-based Finance Administration project designed to monitor employee petty cash and cash advance transactions, track outstanding balances, and support financial document reconciliation.
 
 This project simulates a real-world Finance Admin workflow involving transaction recording, data cleaning, reconciliation, monitoring, and reporting.
 
-## 🎯 Objectives
+## Objectives
 
 * Monitor petty cash and cash advance transactions
 * Identify outstanding employee balances
@@ -16,7 +16,7 @@ This project simulates a real-world Finance Admin workflow involving transaction
 * Monitor settlement status
 * Create an interactive finance dashboard for management reporting
 
-## 📊 Key Features
+## Key Features
 
 ### Data Processing
 
@@ -66,7 +66,7 @@ The interactive dashboard provides:
 
 Interactive filters are provided through Excel Slicers.
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 * Microsoft Excel 2019
 * PivotTable
@@ -79,7 +79,7 @@ Interactive filters are provided through Excel Slicers.
 * Financial Administration
 * Dashboard Reporting
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains simulated Finance Administration transactions covering:
 
@@ -93,9 +93,12 @@ The dataset contains simulated Finance Administration transactions covering:
 
 All data in this project is simulated and does not contain real company or employee information.
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
+![Finance Admin Screenshots1](screenshots/ss1.png)
+![Finance Admin Screenshots2](screenshots/ss2.png)
 ![Finance Admin Dashboard](screenshots/dashboard.png)
+
 
 ## 💼 Relevant Finance Admin Skills
 
