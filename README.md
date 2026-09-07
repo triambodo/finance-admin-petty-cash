@@ -114,4 +114,4 @@ This project demonstrates practical skills relevant to Finance Administration ro
 
 ## 👤 Author
 
-Triambodo
+Bagas Triambodo
