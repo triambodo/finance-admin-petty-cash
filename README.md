@@ -93,7 +93,7 @@ The dataset contains simulated Finance Administration transactions covering:
 
 All data in this project is simulated and does not contain real company or employee information.
 
-## Dashboard Preview
+## Work Preview
 
 ![Finance Admin Screenshots1](screenshots/ss1.png)
 ![Finance Admin Screenshots2](screenshots/ss2.png)
